@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/EcaCosca/b41-VanillaNodeJSExercise/issues"
   },
-  "homepage": "https://github.com/EcaCosca/b41-VanillaNodeJSExercise#readme"
+  "homepage": "https://github.com/EcaCosca/b41-VanillaNodeJSExercise#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1"
+  }
 }
