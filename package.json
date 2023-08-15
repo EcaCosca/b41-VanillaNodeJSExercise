@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/EcaCosca/b41-VanillaNodeJSExercise#readme",
   "dependencies": {
+    "axios": "^1.4.0",
     "dotenv": "^16.3.1",
     "nodemon": "^3.0.1"
   }
