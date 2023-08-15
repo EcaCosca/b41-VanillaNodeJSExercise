@@ -2,7 +2,7 @@
 
 const fs = require('fs');
 
-fs.writeFile('test.html', 'hello', err => {
+fs.writeFile('./memory/testStephan2.html', 'hello', err => {
   if (err) throw err;
   console.log('Saved!');
 });
